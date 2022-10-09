@@ -1,2 +1,9 @@
 # Human-Activity-Recognition-with-Wearable-Devices-and-Machine-Learning.-
 DS 5500 project (Capstone)
+
+Summary:
+Wearable sensors help us to understand the behavior and health conditions of a person. Smartwatches and wristbands have many sensors that can provide various health insights and offer the consumers a sense of productivity and safety. Advancement in technology has attracted many consumers into wearing devices to monitor their activities in everyday life. The most popular applications of wearable technology include health monitoring, sports, fitness and gaming. Understanding the workings of wearable devices will help us in examining cardiovascular and other chronic diseases in a very convenient way. 
+ 
+There is currently no wearable device on the market that can evaluate daily fitness goals combined with cardiovascular health and stress detection for an affordable price. Our problem statement focuses on utilizing machine learning approaches for tracking human activity and health using information gathered from wearable devices. We will use predictive analytics to predict and categorize health variables for wearable device users to make decisions that affect their health. 
+ 
+We will be using data from Fitbit users, Galvanic Skin Response (GSR) sensors, and heart straps for our project. In order to recognize body motions and count steps, sensors mounted on the torso and ankle are useful. It has long been known that wrist sensors are more convenient than ankle sensors. We will receive information about the users’ exercise and health through electronic devices like the Fitbit. The emotional state of a person is being monitored with the help of GSR sensors. ECG is traditionally used to measure heart rate variability (HRV) of a person. Fitness devices and heart straps aid us in measuring HRV for our project.
